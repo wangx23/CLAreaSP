@@ -9,6 +9,7 @@
 #' @importFrom dplyr filter mutate select row_number
 #' @importFrom igraph as_data_frame mst E "E<-" components graph_from_data_frame
 #' @importFrom magrittr %>%
+#' @import Matrix
 #' @importClassesFrom Matrix dgCMatrix
 #' @import sae
 #' @keywords internal
